@@ -35,7 +35,7 @@ input[type="text"], input[type="password"],button{
     border: none;
     cursor: pointer;
     width:100px;
-   transition: width 0.7s;
+   transition: width 0.2s;
 
 } button:hover{
     width: 100%;
